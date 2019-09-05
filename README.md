@@ -7,7 +7,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfQCmP3G4OgrSglxcFaUiyiKyu89X6YX0TgHnGf
 
 # Install R on Windows, Mac OS X and Ubuntu
 
-We will be using R in this course. Please get R installed beforehand. The following link provides detailed instructions (The videos may not work). 
+We will be using R in this course. Please get R installed beforehand. The following link provides detailed instructions (the videos may not work). 
 
 https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu
 
