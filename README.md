@@ -1,5 +1,3 @@
-# EPS236_2019Fall
-
 # Welcome to EPS236
 
 Please fill in this short survey to help us make the course suit your needs
