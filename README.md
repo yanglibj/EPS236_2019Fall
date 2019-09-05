@@ -4,7 +4,7 @@ Welcome to EPS236
 
 Please fill in this short survey to help us make the course suit your needs
 
-https://goo.gl/forms/E7C6sOFJmUxvmI3f1
+https://docs.google.com/forms/d/e/1FAIpQLSfQCmP3G4OgrSglxcFaUiyiKyu89X6YX0TgHnGfFVFxN-zT1g/viewform
 
 Install R on Windows, Mac OS X and Ubuntu
 
